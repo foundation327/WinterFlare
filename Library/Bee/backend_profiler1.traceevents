@@ -1,0 +1,642 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1729768111808441, "dur":744, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111809191, "dur":69, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1729768111809284, "dur":14, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1729768111809298, "dur":432, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1729768111809742, "dur":305, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111810047, "dur":0, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972158, "dur":500, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972658, "dur":38, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972696, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972702, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972712, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972714, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972718, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972720, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972725, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972727, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972732, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972734, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972738, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972740, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972746, "dur":41, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972787, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972791, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972793, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972797, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972799, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972803, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972805, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972810, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972811, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972815, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972816, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972820, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972822, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972826, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972827, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972832, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972834, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972838, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972839, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972843, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972845, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972849, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972850, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972854, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972856, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972860, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972861, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972865, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972866, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972869, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972871, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972875, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972876, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972880, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972893, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111972914, "dur":1732, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1729768111809915, "dur":170, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111810086, "dur":3298, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111813385, "dur":3464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1729768111816851, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111816855, "dur":1488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1729768111818369, "dur":4435, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111822807, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111822811, "dur":1048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111823892, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111824017, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111824021, "dur":1520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111825569, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111825746, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111825750, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111827160, "dur":3434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111830597, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111830601, "dur":3151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111833793, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111834012, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111834016, "dur":4505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111838557, "dur":6115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111844674, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111844680, "dur":7129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111851833, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Barracuda.BurstBLAS.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111851923, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111851927, "dur":6102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Barracuda.BurstBLAS.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111858068, "dur":333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Interactive.Async.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111858403, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111858408, "dur":10910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Interactive.Async.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729768111869541, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1729768111869653, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111869657, "dur":1233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1729768111870915, "dur":14429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1729768111885347, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729768111885352, "dur":6268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1729768111891643, "dur":80882, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111809816, "dur":241, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111810059, "dur":3293, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111813359, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1729768111813362, "dur":790, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111814153, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1729768111814156, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111814318, "dur":1971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1729768111816292, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1729768111816394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111816579, "dur":3924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1729768111820543, "dur":3193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111823738, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111823742, "dur":1236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111825025, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111825295, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111825299, "dur":1523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111826867, "dur":3536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111830406, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111830410, "dur":3929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111834367, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111834602, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111834606, "dur":5403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111840223, "dur":498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111840723, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111840727, "dur":3588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111844339, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111844440, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111844443, "dur":6901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111851368, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Barracuda.ONNX.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111851590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111851594, "dur":7143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Barracuda.ONNX.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111858768, "dur":3905, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111862676, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111862682, "dur":5262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729768111867984, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1729768111868025, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111868063, "dur":762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1729768111868850, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1729768111868879, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729768111868883, "dur":32735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1729768111901642, "dur":70567, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729768111809855, "dur":211, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729768111810066, "dur":3287, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729768111813359, "dur":24612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1729768111837974, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729768111838226, "dur":2291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1729768111840549, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729768111840672, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729768111840677, "dur":4266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729768111844965, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729768111845057, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729768111845061, "dur":7580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729768111852665, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729768111852827, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729768111852830, "dur":14276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729768111867246, "dur":41737, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729768111908988, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729768111909261, "dur":1455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729768111910747, "dur":61447, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729768111809974, "dur":122, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729768111810096, "dur":3290, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729768111813387, "dur":31988, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1.exe" }}
+,{ "pid":12345, "tid":4, "ts":1729768111845377, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729768111845381, "dur":1063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1.exe" }}
+,{ "pid":12345, "tid":4, "ts":1729768111846467, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729768111846567, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729768111846571, "dur":27033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729768111873647, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1729768111873686, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729768111873690, "dur":15622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1729768111889346, "dur":83002, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729768111809895, "dur":185, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729768111810080, "dur":3296, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729768111813377, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1729768111813611, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729768111829917, "dur":1856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1729768111831815, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729768111832023, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729768111832027, "dur":3832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729768111835902, "dur":3446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729768111839350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729768111839355, "dur":3824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729768111843222, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729768111843324, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729768111843327, "dur":6401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729768111849755, "dur":53901, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729768111903684, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729768111903691, "dur":1469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729768111905187, "dur":66994, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729768111809885, "dur":188, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729768111810074, "dur":3280, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729768111813360, "dur":337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1729768111813700, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729768111838410, "dur":1189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1729768111839643, "dur":3803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729768111843448, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729768111843451, "dur":6566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729768111850053, "dur":48853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729768111898960, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729768111898968, "dur":909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729768111899898, "dur":72303, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729768111809988, "dur":113, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729768111810101, "dur":3256, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729768111813360, "dur":7009, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1729768111820372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729768111820457, "dur":2255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1729768111822759, "dur":4084, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729768111826845, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729768111826873, "dur":4517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729768111831459, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729768111831732, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729768111831736, "dur":3508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729768111835327, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729768111835450, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729768111835454, "dur":6370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729768111841856, "dur":274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729768111842133, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729768111842137, "dur":5283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729768111847442, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729768111847512, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729768111847515, "dur":7248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729768111854798, "dur":10146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729768111864947, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729768111864952, "dur":29079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729768111894062, "dur":78209, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729768111809937, "dur":154, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729768111810091, "dur":3264, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729768111813359, "dur":7117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1729768111820508, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729768111820518, "dur":2305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1729768111822879, "dur":3925, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729768111826807, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729768111826811, "dur":4252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729768111831099, "dur":3841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729768111834942, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729768111834947, "dur":5421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729768111840408, "dur":3581, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729768111843992, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729768111843996, "dur":7116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729768111851138, "dur":68134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729768111919279, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729768111919294, "dur":1080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729768111920400, "dur":51789, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729768111810036, "dur":79, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729768111810115, "dur":3265, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729768111813380, "dur":21087, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729768111834469, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729768111834535, "dur":4111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729768111838682, "dur":3455, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729768111842139, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729768111842144, "dur":5492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729768111847661, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Recorder.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729768111847759, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729768111847762, "dur":7080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Recorder.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729768111854870, "dur":879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729768111855752, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729768111855756, "dur":5845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729768111861630, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729768111861821, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729768111861838, "dur":5253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729768111867118, "dur":247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729768111867367, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729768111867371, "dur":26278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729768111893708, "dur":78544, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729768111810013, "dur":92, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729768111810105, "dur":3260, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729768111813366, "dur":6796, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1729768111820164, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729768111820207, "dur":2255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1729768111822502, "dur":4117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111826622, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729768111826641, "dur":3443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111830117, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111830248, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729768111830252, "dur":3184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111833487, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111833613, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729768111833616, "dur":4195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111837840, "dur":1338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111839180, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729768111839184, "dur":5177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111844391, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111844494, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729768111844497, "dur":7112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111851643, "dur":561, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Barracuda.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111852206, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729768111852209, "dur":5165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Barracuda.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111857406, "dur":113703, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.IO.Abstractions.TestingHelpers.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111971114, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729768111971124, "dur":958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.IO.Abstractions.TestingHelpers.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729768111972106, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":10, "ts":1729768111972107, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729768111810028, "dur":81, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729768111810109, "dur":3247, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729768111813360, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1729768111813526, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729768111814613, "dur":1849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1729768111816505, "dur":5318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111821825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729768111821829, "dur":1451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111823313, "dur":4012, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111827327, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729768111827331, "dur":4860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111832262, "dur":3548, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111835812, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729768111835819, "dur":4865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111840722, "dur":540, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111841264, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729768111841268, "dur":4717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111846017, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111846111, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729768111846115, "dur":7777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111853937, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111854076, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729768111854079, "dur":4012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111858131, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111858258, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729768111858262, "dur":6467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111864768, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111865013, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729768111865017, "dur":30063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729768111895123, "dur":77099, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729768111810060, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729768111810060, "dur":3300, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729768111813361, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1729768111813584, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729768111820161, "dur":2403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1729768111822606, "dur":3928, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111826537, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729768111826541, "dur":2744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111829326, "dur":3957, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111833286, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729768111833290, "dur":3785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111837117, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111837314, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729768111837332, "dur":4548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111841931, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111842158, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729768111842162, "dur":5491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111847680, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Recorder.Base.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111847760, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729768111847763, "dur":8205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Recorder.Base.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111855994, "dur":274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111856270, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729768111856274, "dur":7579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111863875, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111864019, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729768111864022, "dur":5396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729768111869442, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1729768111869487, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729768111869491, "dur":52679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1729768111922198, "dur":49979, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111810107, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111810108, "dur":3261, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111813369, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1729768111813574, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111819634, "dur":1911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1729768111821576, "dur":3306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111824885, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111824889, "dur":1617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111826534, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111826728, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111826732, "dur":3776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111830542, "dur":3200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111833745, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111833750, "dur":4551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111838340, "dur":3462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111841805, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111841809, "dur":4783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111846618, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111846702, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111846706, "dur":8211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111854973, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111855166, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111855169, "dur":5327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111860523, "dur":1550, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111862075, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111862078, "dur":5836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1729768111867947, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":13, "ts":1729768111868081, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111868925, "dur":3316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":13, "ts":1729768111872265, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/level0" }}
+,{ "pid":12345, "tid":13, "ts":1729768111872291, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729768111872294, "dur":6643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/level0" }}
+,{ "pid":12345, "tid":13, "ts":1729768111878966, "dur":93197, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729768111810144, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729768111810144, "dur":3218, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729768111813363, "dur":6729, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1729768111820094, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729768111820164, "dur":2083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1729768111822290, "dur":3996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111826288, "dur":25, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729768111826320, "dur":2670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111829019, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111829145, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729768111829150, "dur":3704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111832905, "dur":3562, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111836469, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729768111836473, "dur":5276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111841777, "dur":462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111842241, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729768111842245, "dur":5597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111847865, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111848016, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729768111848019, "dur":7018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111855073, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111855305, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729768111855309, "dur":7662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111862997, "dur":258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111863257, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729768111863261, "dur":31181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729768111894474, "dur":77756, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1729768111810174, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1729768111810175, "dur":3208, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1729768111813383, "dur":109273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1729768111922659, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1729768111922666, "dur":10848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1729768111933589, "dur":38582, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729768111810196, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729768111810197, "dur":3177, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729768111813375, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1729768111813574, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729768111819141, "dur":2796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1729768111821969, "dur":3079, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729768111825050, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729768111825054, "dur":1362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729768111826439, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729768111826669, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729768111826673, "dur":4087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729768111830788, "dur":3995, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729768111834786, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729768111834790, "dur":4200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729768111839028, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729768111839225, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729768111839229, "dur":3503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729768111842762, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729768111842854, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729768111842857, "dur":6046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729768111848927, "dur":469, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729768111849398, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729768111849401, "dur":44242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729768111893678, "dur":78605, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1729768111810221, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1729768111810221, "dur":3152, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1729768111813373, "dur":7011, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1729768111820387, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1729768111820396, "dur":2260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1729768111822695, "dur":4341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1729768111827038, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1729768111827042, "dur":4278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1729768111831345, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1729768111831503, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1729768111831507, "dur":3345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1729768111834886, "dur":6806, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1729768111841695, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1729768111841699, "dur":5380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1729768111847108, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":17, "ts":1729768111847231, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1729768111847235, "dur":10231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":17, "ts":1729768111857500, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.IO.Abstractions.dll" }}
+,{ "pid":12345, "tid":17, "ts":1729768111857634, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1729768111857656, "dur":6536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.IO.Abstractions.dll" }}
+,{ "pid":12345, "tid":17, "ts":1729768111864221, "dur":4384, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":17, "ts":1729768111868607, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1729768111868612, "dur":26541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":17, "ts":1729768111895176, "dur":77058, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1729768111810242, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1729768111810243, "dur":3128, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1729768111813371, "dur":6776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":18, "ts":1729768111820150, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1729768111820178, "dur":1890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":18, "ts":1729768111822095, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1729768111822219, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1729768111822222, "dur":1389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1729768111823645, "dur":3391, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1729768111827039, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1729768111827043, "dur":4768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1729768111831842, "dur":3505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1729768111835349, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1729768111835355, "dur":4779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1729768111840166, "dur":4180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1729768111844365, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1729768111844369, "dur":6797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1729768111851194, "dur":86072, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":18, "ts":1729768111937271, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1729768111937279, "dur":963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":18, "ts":1729768111938264, "dur":33900, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1729768111810266, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1729768111810266, "dur":3109, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1729768111813376, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":19, "ts":1729768111813607, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1729768111826870, "dur":927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":19, "ts":1729768111827825, "dur":4133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1729768111831960, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1729768111831970, "dur":3999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1729768111836021, "dur":6473, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":19, "ts":1729768111842496, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1729768111842501, "dur":6196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":19, "ts":1729768111848720, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.ML-Agents.CommunicatorObjects.dll" }}
+,{ "pid":12345, "tid":19, "ts":1729768111848854, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1729768111848858, "dur":18498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.ML-Agents.CommunicatorObjects.dll" }}
+,{ "pid":12345, "tid":19, "ts":1729768111867385, "dur":11425, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Plugins/x86_64/grpc_csharp_ext.x64.dll" }}
+,{ "pid":12345, "tid":19, "ts":1729768111878813, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1729768111879618, "dur":1699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Plugins/x86_64/grpc_csharp_ext.x64.dll" }}
+,{ "pid":12345, "tid":19, "ts":1729768111881348, "dur":91186, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1729768111810289, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1729768111810289, "dur":3075, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1729768111813364, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":20, "ts":1729768111813634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1729768111833831, "dur":2082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":20, "ts":1729768111835950, "dur":6210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1729768111842162, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1729768111842166, "dur":6030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1729768111848229, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.ML-Agents.dll" }}
+,{ "pid":12345, "tid":20, "ts":1729768111848448, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1729768111848451, "dur":7486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.ML-Agents.dll" }}
+,{ "pid":12345, "tid":20, "ts":1729768111856071, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":20, "ts":1729768111856243, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1729768111856247, "dur":9091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":20, "ts":1729768111865360, "dur":1226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Google.Protobuf.dll" }}
+,{ "pid":12345, "tid":20, "ts":1729768111866588, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1729768111866592, "dur":25219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Google.Protobuf.dll" }}
+,{ "pid":12345, "tid":20, "ts":1729768111891842, "dur":80460, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111810309, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111810309, "dur":3049, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111813372, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":21, "ts":1729768111813526, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111814635, "dur":2008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":21, "ts":1729768111816671, "dur":4012, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111820685, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111820764, "dur":2003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111822810, "dur":4254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111827066, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111827071, "dur":4387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111831505, "dur":3555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111835062, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111835067, "dur":4908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111840022, "dur":467, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111840491, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111840494, "dur":4587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111845108, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111845216, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111845219, "dur":7773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111853036, "dur":2112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111855150, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111855155, "dur":5071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111860247, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111860343, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111860346, "dur":4629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111865002, "dur":387, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Grpc.Core.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111865391, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111865408, "dur":13523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Grpc.Core.dll" }}
+,{ "pid":12345, "tid":21, "ts":1729768111878963, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/boot.config" }}
+,{ "pid":12345, "tid":21, "ts":1729768111879060, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1729768111879066, "dur":11897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/boot.config" }}
+,{ "pid":12345, "tid":21, "ts":1729768111890993, "dur":81327, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1729768111810327, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1729768111810328, "dur":3044, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1729768111813376, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":22, "ts":1729768111813539, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1729768111818993, "dur":1312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":22, "ts":1729768111820341, "dur":3780, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1729768111824124, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1729768111824127, "dur":1767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1729768111825933, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1729768111826049, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1729768111826052, "dur":2360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1729768111828443, "dur":4571, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1729768111833017, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1729768111833023, "dur":6218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1729768111839280, "dur":3645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1729768111842928, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1729768111842932, "dur":6255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1729768111849212, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":22, "ts":1729768111849312, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1729768111849315, "dur":8980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":22, "ts":1729768111858318, "dur":2730, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":22, "ts":1729768111861050, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1729768111861054, "dur":10953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":22, "ts":1729768111872036, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/resources.assets" }}
+,{ "pid":12345, "tid":22, "ts":1729768111872068, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1729768111872073, "dur":6952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/resources.assets" }}
+,{ "pid":12345, "tid":22, "ts":1729768111879049, "dur":93107, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1729768111810351, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1729768111810351, "dur":3017, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1729768111813368, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":23, "ts":1729768111813590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1729768111823520, "dur":1391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":23, "ts":1729768111824956, "dur":909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111825867, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1729768111825872, "dur":2411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111828308, "dur":3325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111831637, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1729768111831641, "dur":3634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111835571, "dur":3352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111838925, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1729768111838929, "dur":3568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111842559, "dur":430, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111842991, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1729768111842995, "dur":6669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111849692, "dur":270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111849964, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1729768111849967, "dur":6377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111856366, "dur":310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111856678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1729768111856682, "dur":6919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111863627, "dur":544, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111864174, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1729768111864178, "dur":9494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":23, "ts":1729768111873712, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":23, "ts":1729768111873751, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1729768111873754, "dur":17510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":23, "ts":1729768111891291, "dur":81018, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111810369, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111810369, "dur":3010, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111813379, "dur":2404, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111815785, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111815994, "dur":1126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111817151, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111817260, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111817416, "dur":613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111818048, "dur":3951, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111822001, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111822006, "dur":1629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111823665, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111823812, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111823828, "dur":1368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111825220, "dur":3451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111828686, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111828690, "dur":3935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111832659, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111832773, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111832777, "dur":4294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111837127, "dur":4096, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111841225, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111841230, "dur":5064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111846321, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111846408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111846412, "dur":7554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111853998, "dur":313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111854313, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111854317, "dur":3853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111858201, "dur":489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111858692, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1729768111858696, "dur":33127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Takeaki/Desktop/SOMMER/ww1_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":24, "ts":1729768111891853, "dur":80435, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729768111975728, "dur":1132, "ph":"X", "name": "ProfilerWriteOutput" }
+,

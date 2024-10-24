@@ -1,0 +1,19 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+
+"traceEvents":[
+{ "pid": "Unity", "ph":"M", "name": "process_name", "args": {"name": "Unity"} },
+{ "pid": "Unity", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -100} },
+{ "pid": "Unity", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "Unity", "tid": 1,"ts": 1.72977448475708E+15,"dur": 3616010, "ph":"X", "name": "Build player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.72977448478246E+15,"dur": 28202, "ph":"X", "name": "Preprocess Player"},
+{}
+
+],
+"meta_datetime": "10/24/2024 21:54:48",
+"meta_command_line": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.16f1\\Editor\\Unity.exe\" -projectpath C:\\Users\\Takeaki\\ww1 -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-Takeaki -hubSessionId 61a42511-e286-401c-9103-4e59ca8f46c5 -accessToken kF3TmP5N_TtM0PQnUvAGLBysKn-WwApx-L5g8FQWTB800ef",
+"meta_command_line_args": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.16f1\\Editor\\Unity.exe -projectpath C:\\Users\\Takeaki\\ww1 -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-Takeaki -hubSessionId 61a42511-e286-401c-9103-4e59ca8f46c5 -accessToken kF3TmP5N_TtM0PQnUvAGLBysKn-WwApx-L5g8FQWTB800ef",
+"meta_user_name": "Takeaki",
+"meta_os_version": "Microsoft Windows NT 10.0.22631.0",
+"meta_cpu_count": "24"
+}
