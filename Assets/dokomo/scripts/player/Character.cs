@@ -9,6 +9,7 @@ public class Character : MonoBehaviour
     [SerializeField] GameObject playerCamera;
     [SerializeField] float walk=3f;
     [SerializeField] float run=5f;
+    [SerializeField] float jumpPower=3f;
     [SerializeField] float gravity=10f;
 
     [SerializeField] float lookSpeed=2f;
@@ -23,7 +24,7 @@ public class Character : MonoBehaviour
     public bool Movable=true;
     [SerializeField] int crouching;
 
-    CharacterController characterController;
+    public CharacterController characterController;
     Vector3 center;
 
     public bool isRunning;
@@ -76,7 +77,7 @@ public class Character : MonoBehaviour
             transform.rotation*=Quaternion.Euler(0,Input.GetAxis("Mouse X")*lookSpeed,0);
         }
         #endregion
-
+/*
         #region VaultOver
         Vector3 forvault=this.transform.localPosition;
         if(Movable==true&&Input.GetKeyDown(KeyCode.Space)&&gew98anim.animating==0&&isVaultingOverATallWall==0&&characterController.isGrounded)
@@ -90,7 +91,7 @@ public class Character : MonoBehaviour
             ground=forvault.y;
         }
         #endregion 
-
+*/
         #region standing
         if(Movable==true&&crouching==0&&characterController.height<2f&&center.y>0)
         {
@@ -116,7 +117,14 @@ public class Character : MonoBehaviour
         #region Jump
         if(Movable==true)
         {
-            moveDirection.y=movementDirectionY;
+            if(Input.GetButton("Jump")&&characterController.isGrounded)
+            {
+                moveDirection.y=jumpPower;
+            }
+            else
+            {
+                moveDirection.y=movementDirectionY;
+            }
             if(!characterController.isGrounded)
             {
                 moveDirection.y-=gravity*Time.deltaTime;
