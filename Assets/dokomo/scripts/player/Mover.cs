@@ -70,7 +70,7 @@ public class Mover : MonoBehaviour
       moving=0;
     }
 
-    if(moving==1&&character.characterController.isGrounded)
+    if(moving==1&&character.characterController.isGrounded&&gew98anim.animating==0)
     {
       ThisTransform.position += multiplier*Directionx.normalized * valuex * function1(Time.time*Speedx) * Time.deltaTime;
       ThisTransform.position += multiplier*Directiony.normalized * valuey * function1(Time.time*Speedy) * Time.deltaTime;
@@ -79,7 +79,7 @@ public class Mover : MonoBehaviour
       ThisTransform.Rotate(0,multiplier*rvaluey*function1(Time.time*rspeedy),0);
       ThisTransform.Rotate(0,0,multiplier*rvaluez*function1(Time.time*rspeedz));
     }
-    else if(!character.characterController.isGrounded)
+    else if(!character.characterController.isGrounded&&gew98anim.animating==0)
     {
       ThisTransform.position += multiplier*Directiony.normalized *0.1f * Time.deltaTime;
       ThisTransform.Rotate(-multiplier*10f,0,0);
